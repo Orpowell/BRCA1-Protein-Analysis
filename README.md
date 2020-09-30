@@ -10,13 +10,16 @@ The aim was to identify conserved residues within sequence of the breast cancer 
 	4. The alignment is then converted into a 2D NumPy array, and scanned to find conserved residues; The position of each conserved residue is stored in a list.
 	5. The list of conserved residues is used to colour residues on the structure of the human protein and saved as a PyMol session (see Figures).
 
-## Figures
+## Results
 ![MSA](https://user-images.githubusercontent.com/66531998/94668270-be762400-0307-11eb-8aeb-e3b9bf85bdb4.png)
 Figure 1. A multiple sequence alignment of the BRCA1 protein across 8 different species. The alignment was produced using Clustal Omega with using data collected from UniprotKB.
 
 ![brca1](https://user-images.githubusercontent.com/66531998/94670256-3a716b80-030a-11eb-9b10-31c201233052.png)
 Figure 2. The structure of the Human BRCA1 protein. Conserved Residues are coloured red; or pink if they're part of the zinc finger RING binding domain. All unconserved residues are coloured green. Residues were labelled using data collected from Figure 1.
 
+## Conclusion
+
+Figures 1. and 2. clearly demonstrate that large portions of the BRCA1 protein are highly conserved. This is likely due to its role in tumour suppression and DNA repair.
 
 ## Tools Used
 
