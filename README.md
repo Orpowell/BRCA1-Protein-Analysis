@@ -1,6 +1,6 @@
 # BRCA1-Protein-Analysis
 
-This Project is the culmination of the bioinformatics and programming (Python) that I learnt in the Covid-19 Lockdown, after the first year of my Biochemistry Degree. 
+This Project is the culmination of the bioinformatics and programming (Python) skills that I learnt in the Covid-19 Lockdown, after the first year of my Biochemistry Degree. 
 
 The aim was to identify conserved residues within sequence of the breast cancer type 1 susceptibility (BRCA1) protein, across 8 different species, and highlight them as part of the sequence and structure of the human protein. This was done in the following steps:
 
