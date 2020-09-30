@@ -30,4 +30,4 @@ Figures 1. and 2. both clearly demonstrate that large portions of the BRCA1 prot
 
 ## Comments
 - Due to difficulty accessing the alignment file from the ClustalOmegaApp in Biotite, the alignment had to be ran again using Biopython; In order to collect the positions of the conserved residues from the raw alignment file.
-- A possible lead from this project is the development of a generalised analytical tool that can run the entire analysis for any set of proteins; given only the protein accession codes and a PyMol structure.
+- A possible extension of this project is the development of a general analytical tool that can run the entire analysis for any set of proteins, using only a set of protein accession codes and PyMol structure.
