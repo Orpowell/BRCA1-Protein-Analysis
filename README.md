@@ -17,9 +17,7 @@ Figure 1. A multiple sequence alignment of the BRCA1 protein across 8 different 
 ![brca1](https://user-images.githubusercontent.com/66531998/94670256-3a716b80-030a-11eb-9b10-31c201233052.png)
 Figure 2. The structure of the Human BRCA1 protein. Conserved Residues are coloured red; or pink if they're part of the zinc finger RING binding domain. All unconserved residues are coloured green. Residues were labelled using data collected from Figure 1.
 
-## Conclusion
-
-Figures 1. and 2. clearly demonstrate that large portions of the BRCA1 protein are highly conserved. This is likely due to its role in tumour suppression and DNA repair.
+Figures 1. and 2. both clearly demonstrate that large portions of the BRCA1 protein are highly conserved across species. This likely due to the critical role the BRCA1 protein plays in DNA repair and tumuor suppression.
 
 ## Tools Used
 
@@ -32,3 +30,4 @@ Figures 1. and 2. clearly demonstrate that large portions of the BRCA1 protein a
 
 ## Comments
 - Due to difficulty accessing the alignment file from the ClustalOmegaApp in Biotite, the alignment had to be ran again using Biopython; In order to collect the positions of the conserved residues from the raw alignment file.
+- A possible lead from this project is the development of a generalised analytical tool that can run the entire analysis for any set of proteins; given only the protein accession codes and a PyMol structure.
