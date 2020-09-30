@@ -11,8 +11,12 @@ The aim was to identify conserved residues within sequence of the breast cancer 
 	5. The list of conserved residues is used to colour residues on the structure of the human protein and saved as a PyMol session (see Figures).
 
 ## Figures
-
 ![MSA](https://user-images.githubusercontent.com/66531998/94668270-be762400-0307-11eb-8aeb-e3b9bf85bdb4.png)
+Figure 1. A multiple sequence alignment of the BRCA1 protein across 8 different species. The alignment was produced using Clustal Omega with using data collected from UniprotKB.
+
+
+
+
 
 ## Tools Used
 
