@@ -19,7 +19,7 @@ Figure 2. The structure of the Human BRCA1 protein. Conserved Residues are colou
 
 Figures 1. and 2. both clearly demonstrate that large portions of the BRCA1 protein are highly conserved across species. This likely due to the critical role the BRCA1 protein plays in DNA repair and tumuor suppression.
 
-## Tools Used
+## Dependencies
 
 - Clustal Omega 1.2.3
 - PyMol 2.4
