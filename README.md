@@ -2,7 +2,7 @@
 
 This Project is the culmination of the bioinformatics and programming (Python) skills that I learnt in the Covid-19 Lockdown, after the first year of my Biochemistry Degree. 
 
-The aim was to identify conserved residues within sequence of the breast cancer type 1 susceptibility (BRCA1) protein, across 8 different species, and highlight them as part of the sequence and structure of the human protein. This was done in the following steps:
+The aim was to identify conserved residues within sequence of the breast cancer type 1 susceptibility (BRCA1) protein, across 8 different species, and highlight them as part of the primary and tertiary structure of the human protein. This was done in the following steps:
 
 	1. An input txt file of Protein Accession codes is given. These are used to access the sequence of each protein from the UniProt KnowledgeBase.
 	2. The collected sequences are used for a Multiple sequence alignment, using Clustal Omega.
